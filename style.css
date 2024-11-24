@@ -1,0 +1,135 @@
+img{
+    height: 40px;
+    margin: -8px 160px 0px 30px;
+    mix-blend-mode:multiply;
+    float: left;
+}
+a{  color: black;
+    text-decoration: none;
+    margin-right: 140px;
+}
+#navi{
+    height: 50px;
+    justify-items: center;
+   }
+a:hover{
+    text-decoration: underline; 
+}
+#menu{
+    position:fixed;
+    left:1200px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 2px;
+    background-color: rgb(0, 255, 234);
+}
+img#dp{
+    display: flex;
+    mix-blend-mode:darken;
+    border-radius :50px; 
+    height: 500px;
+    float: left;
+    margin-top: -20px;
+}
+#home{
+    padding-top: 90px;
+}
+#text{
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    padding-top: 130px;
+    
+}
+#about{
+    margin-top: 180px;
+}
+#eqs{
+
+    height: 200px;
+    padding-left:25% ;
+}
+#t{
+    font-size: larger;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#skills{
+    height: auto;
+    margin-left: 200px;
+}
+#set1{
+    margin-top: 45px;
+}
+#i1{
+    align-items: space-evenly;
+}
+#ss1{
+    height: 300px;
+}
+#ss2{
+    padding-top: 60px;
+    height: 190px;
+}
+#i2{
+    padding-left: 60px;
+    align-items: space-evenly;
+}
+#ss3{
+    height: 250px ;
+}
+#ss4{
+    padding-top: 50px;
+    padding-left: 50px;
+    height:200px;
+}
+#contact{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+#contact a{
+    font-size: 50px;
+}
+#icon1{
+    color: maroon;
+    margin-left: 180px;
+}
+#icon1 :hover{
+    text-shadow: 0 0 5px royalblue,0 0 5px royalblue,0 0 5px royalblue;
+}
+#icon2{
+    color: rgb(0, 0, 56)
+}
+#icon2 :hover{
+    text-shadow: 0 0 3px maroon,0 0 2px maroon,0 0 2px maroon;
+}
+#icon3{
+    color: green;
+}
+#icon4{
+    color: darkblue}
+
+#icon5{
+    color: blue;
+}
+#icon6{
+    color: red;
+}
+#final{
+    align-items: center ;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#final a{
+    font-size: 50px;
+    margin-right: 30px;
+    padding-left: 100px;
+}
+#final a:hover{
+    text-shadow: 0 0 0px white,0 0 2px silver,0 0 4px white,0 0 0px white;
+
+}
+#final p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
